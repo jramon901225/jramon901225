@@ -1,7 +1,7 @@
 # Hi there, I'm Manuel - 👋 
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/MM4nu31)
+[![Twitter Follow]](https://twitter.com/MM4nu31)
 
 ## I'm a Web Developer!
 
