@@ -1,7 +1,6 @@
 # Hi there, I'm Manuel - 👋 
 
-
-[![Twitter Follow]](https://twitter.com/MM4nu31)
+Recently finished a Bootcamp at Kodemia, still learning web development 
 
 ## I'm a Web Developer!
 
@@ -9,5 +8,4 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about Javascript and React
 - ⚡ Fun fact: I love to watch anime and eat Pizza
-
 
